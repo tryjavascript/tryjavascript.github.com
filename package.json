@@ -18,6 +18,12 @@
   "license": "BSD",
   "devDependencies": {
     "grunt-jasmine-task": "~0.2.0",
-    "cucumber": "~0.2.18"
+    "cucumber": "~0.2.18",
+    "grunt-contrib": "~0.1.1"
+  },
+  "dependencies": {
+    "hbs": "~1.0.4",
+    "handlebars": "~1.0.5beta",
+    "express": "~3.0.0beta7"
   }
 }
