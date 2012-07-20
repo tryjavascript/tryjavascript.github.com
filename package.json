@@ -1,0 +1,23 @@
+{
+  "name": "tryjavascript.org",
+  "version": "0.0.0",
+  "description": "The website for tryjavascript.rog",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tryjavascript/tryjavascript.github.com.git"
+  },
+  "keywords": [
+    "tryjavascript",
+    "learn"
+  ],
+  "author": "Stanley Stuart <dstanley.stuart@gmail.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt-jasmine-task": "~0.2.0",
+    "cucumber": "~0.2.18"
+  }
+}
